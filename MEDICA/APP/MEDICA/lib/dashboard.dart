@@ -111,7 +111,7 @@ class _HomePageState extends State<HomePage> {
       }
     };
     await telephony.sendSms(
-        to: "8126568193",
+        to: "",
         message: "This is an attempt to send an alert from MEDICA, \n Location: Latitude: $userLat, longitude: $userLong",
         statusListener: listener
     );
