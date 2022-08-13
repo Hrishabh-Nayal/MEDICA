@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\RANDOM\FLUTTER\flutter\.pub-cache\hosted\pub.dartlang.org\telephony-0.1.4\android\src\main\AndroidManifest.xml:1:1-3:12
+INJECTED from D:\RANDOM\FLUTTER\flutter\.pub-cache\hosted\pub.dartlang.org\telephony-0.1.4\android\src\main\AndroidManifest.xml:1:1-3:12
+INJECTED from D:\RANDOM\FLUTTER\flutter\.pub-cache\hosted\pub.dartlang.org\telephony-0.1.4\android\src\main\AndroidManifest.xml:1:1-3:12
+	package
+		ADDED from D:\RANDOM\FLUTTER\flutter\.pub-cache\hosted\pub.dartlang.org\telephony-0.1.4\android\src\main\AndroidManifest.xml:2:3-39
+		INJECTED from D:\RANDOM\FLUTTER\flutter\.pub-cache\hosted\pub.dartlang.org\telephony-0.1.4\android\src\main\AndroidManifest.xml
+		INJECTED from D:\RANDOM\FLUTTER\flutter\.pub-cache\hosted\pub.dartlang.org\telephony-0.1.4\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\RANDOM\FLUTTER\flutter\.pub-cache\hosted\pub.dartlang.org\telephony-0.1.4\android\src\main\AndroidManifest.xml:1:1-3:12
+uses-sdk
+INJECTED from D:\RANDOM\FLUTTER\flutter\.pub-cache\hosted\pub.dartlang.org\telephony-0.1.4\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\RANDOM\FLUTTER\flutter\.pub-cache\hosted\pub.dartlang.org\telephony-0.1.4\android\src\main\AndroidManifest.xml
+INJECTED from D:\RANDOM\FLUTTER\flutter\.pub-cache\hosted\pub.dartlang.org\telephony-0.1.4\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\RANDOM\FLUTTER\flutter\.pub-cache\hosted\pub.dartlang.org\telephony-0.1.4\android\src\main\AndroidManifest.xml
+		ADDED from D:\RANDOM\FLUTTER\flutter\.pub-cache\hosted\pub.dartlang.org\telephony-0.1.4\android\src\main\AndroidManifest.xml
+		INJECTED from D:\RANDOM\FLUTTER\flutter\.pub-cache\hosted\pub.dartlang.org\telephony-0.1.4\android\src\main\AndroidManifest.xml
